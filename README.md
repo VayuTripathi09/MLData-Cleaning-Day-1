@@ -14,7 +14,7 @@ Clean and prepare raw data for machine learning using Python and Pandas.
 - Imported the dataset
 - Handled missing values using mean/median
 - Encoded categorical variables (Label + One-Hot Encoding)
-- Normalized numerical features (if applicable)
+- Normalized numerical features 
 - Detected & handled outliers using boxplots
 
 ## 📁 Files
